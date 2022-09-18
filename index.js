@@ -1,0 +1,1 @@
+window.location.replace("https://form-email-html-6ylc253kb-leonardo-ferreira-costa.vercel.app/api");
