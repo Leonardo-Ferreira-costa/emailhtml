@@ -1,6 +1,5 @@
 <?php
 
-
 // Define as variaveis vazias.
 $nome = $email = $telefone = $whatsapp = $assunto = $para = $corpo = $header = "";
 
