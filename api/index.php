@@ -86,7 +86,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   //Enviando email
 
  // Destinatário
- $para = 'leonardo.fcosta69824@gmail.com';
+ $para = 'example@gmail.com';
   
  // Monta o corpo da mensagem com os campos
 //  $corpo = "$mensagem";
